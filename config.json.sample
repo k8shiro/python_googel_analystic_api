@@ -1,0 +1,6 @@
+{
+    "email": <your google developer email>,
+    "key": <your p12 key>,
+    "start_date": "2016-02-07",
+    "end_date": "2016-03-07"
+}
