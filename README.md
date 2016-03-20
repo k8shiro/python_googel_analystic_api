@@ -19,6 +19,7 @@ config.jsonの中を以下のように編集します。
         "key": "<*.p12 path> ex) ./sample-5a5a55a5a5a5.p12",
         "start_date": "ランキングの期間の開始日 ex) 2016-02-07",
         "end_date": "ランキングの期間の終了日 ex) 2016-03-07"
+		"home": "あなたのpageのurl ex) http://qiita.com/"
     }
 
 以下の二つをpipで入れます
